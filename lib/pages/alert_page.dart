@@ -8,7 +8,7 @@ class AlertPage extends StatelessWidget {
         builder: (BuildContext context) {
           return AlertDialog(
             title: Text("Arturo Titulo del Alertdialog"),
-            backgroundColor: Colors.brown,
+            backgroundColor: Colors.white,
             elevation: 60.0,
             content: Column(
               mainAxisSize: MainAxisSize.min,
